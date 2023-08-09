@@ -11,6 +11,8 @@ This project enables the security and malware research communities by publishing
 
 #### How do I get started?
 
+First, run `script/setup`, which recreates `virtualenv` from script.
+
 There are two parts to this library: (1) data curation and (2) machine learning.
 
 ### Data Curation
@@ -26,7 +28,10 @@ There are two parts to this library: (1) data curation and (2) machine learning.
   3. Apply text vectorization via CountVectorizer and TF-IDF methods.
   4. Scale the data using MinMaxScaler, StandardScaler, RobustScaler, QuantileTransformer, and PowerTransformer.
   5. Perform binary classification using 5 models: Logistic Regression, Gaussian Naive Bayes, Perceptron, Decision Tree, and Random Forest, and produce confusion matrices for each permutation of vectorization method, scaling technique, and classifier, in addition to train and test accuracy, error, precision, recall, f1-score, and specificify metrics. 
-2. Run `./src/evaluate_metrics.py` to ingest the CSV files, compare results, and tune parameters accordingly. 
+  6. Compute SHAP values, precision-recall curves, fit analysis, and summarize results.
+  7. Perform feature selection using methods such as K-best selection, Chi-Squared, Mutual Information, as well as by selecting the top features as determined by SHAP summary plots.
+  8. Re-run model fitting.
+  9. Tune and adjust parameters as necessary. 
 
 
 ### Where can I get more help, if I need it?
