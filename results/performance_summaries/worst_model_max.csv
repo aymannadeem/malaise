@@ -1,0 +1,6 @@
+worst_model_max
+"       Training Accuracy  Accuracy  Training Error  Test Error  Training Precision  ...   ROC-AUC  classifier_name     scaler_name  vectorizer_name  feature_selection_method
+index                                                                               ...                                                                                      
+9               0.514668  0.522321        0.485332    0.477679            0.506494  ...  0.514896       Perceptron  StandardScaler               CV                    k-best
+
+[1 rows x 18 columns]"

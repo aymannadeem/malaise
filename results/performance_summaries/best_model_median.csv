@@ -1,0 +1,6 @@
+best_model_median
+"       Training Accuracy  Accuracy  Training Error  Test Error  Training Precision  ...   ROC-AUC       classifier_name   scaler_name  vectorizer_name  feature_selection_method
+index                                                                               ...                                                                                         
+126             0.501754  0.491709        0.498246    0.508291            0.444444  ...  0.499333  Gaussian Naive Bayes  RobustScaler               CV                      shap
+
+[1 rows x 18 columns]"

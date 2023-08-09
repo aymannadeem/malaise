@@ -1,0 +1,102 @@
+Repository(full_name="malwares/DangerousZone")
+
+Repo name: DangerousZone
+Author: malwares
+Stars: 179
+Forks: 158
+Watchers: 179
+Creation: 2016-03-26 11:50:02
+Last updated: 2023-04-29 06:20:16
+Languages: {}
+topics: []
+
+Open issues: 0
+Closed issues: 1
+Issue comments: 0
+Open PRs: 0
+Closed PRs: 0
+Comments: 0
+Contributors: 0
+Subscribers: 23
+Commits: 3
+Branches: 1
+Labels: 7
+Author email: 269022483
+Author account created at: 2016-03-02 07:19:17
+Author account last update: 2017-08-31 13:07:55
+Author contributions: None
+Repos created by author: 32
+Repos starred by author: 0
+Repos watched by author: 0
+Author's followers: 115
+Author following: 0
+Author orgs: 0
+Author subscriptions: 0
+has_malware: 1
+
+
+
+***
+
+Repo name: DangerousZone,
+Author: malwares,
+Stars: 179,
+Forks: 158,
+Watchers: 179,
+Creation: 2016-03-26 11:50:02,
+Last Updated: 2023-04-29 06:20:16,
+Languages:{},
+Topics:[]
+Family: ,
+Platform: ,
+has_malware: ,
+1,
+repo_name: DangerousZone,
+owner name: malwares,
+open issues: 0,
+closed issues: 1,
+0,
+0,
+0,
+0,
+0,
+23,
+3,
+1,
+7,
+271442195,
+2016-03-02 07:19:17,
+2017-08-31 13:07:55,
+,
+32,
+0,
+0,
+114,
+0,
+0,
+0
+
+
+
+open_issues,
+closed_issues,
+issue_comments,
+open_pulls,
+closed_pulls,
+comments,
+contributors,
+subscribers,
+commits,
+branches,
+labels,
+author_email_hash,
+author_account_created_at,
+author_account_last_update,
+author_contributions,
+repos_created_by_author,
+repos_starred_by_author,
+repos_watched_by_author,
+author_followers,
+author_following,
+author_orgs,
+author_subscriptions,

@@ -1,0 +1,6 @@
+worst_model_median
+"       Training Accuracy  Accuracy  Training Error  Test Error  Training Precision  ...   ROC-AUC  classifier_name   scaler_name  vectorizer_name  feature_selection_method
+index                                                                               ...                                                                                    
+138                  1.0  0.942602             0.0    0.057398                 1.0  ...  0.943155    Random Forest  RobustScaler               CV                      shap
+
+[1 rows x 18 columns]"

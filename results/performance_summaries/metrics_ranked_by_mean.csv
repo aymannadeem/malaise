@@ -1,0 +1,248 @@
+metrics_ranked_by_mean
+"[                                                             0
+classifier_name      vectorizer_name scaler_name              
+Decision Tree        CV              MinMaxScaler         33.0
+                                     QuantileTransformer  31.0
+                                     RobustScaler         18.0
+                                     StandardScaler       25.0
+                     TF-IDF          MinMaxScaler         34.0
+                                     QuantileTransformer  32.0
+                                     RobustScaler         17.0
+                                     StandardScaler       28.0
+Gaussian Naive Bayes CV              MinMaxScaler         10.5
+                                     QuantileTransformer  23.5
+                                     RobustScaler          1.5
+                                     StandardScaler        4.0
+                     TF-IDF          MinMaxScaler         10.5
+                                     QuantileTransformer  23.5
+                                     RobustScaler          1.5
+                                     StandardScaler        3.0
+Logistic Regression  CV              MinMaxScaler         26.5
+                                     QuantileTransformer  29.5
+                                     RobustScaler          8.0
+                                     StandardScaler       14.0
+                     TF-IDF          MinMaxScaler         26.5
+                                     QuantileTransformer  29.5
+                                     RobustScaler          6.0
+                                     StandardScaler       13.0
+Perceptron           CV              MinMaxScaler         15.5
+                                     QuantileTransformer  19.5
+                                     RobustScaler          7.0
+                                     StandardScaler        9.0
+                     TF-IDF          MinMaxScaler         15.5
+                                     QuantileTransformer  19.5
+                                     RobustScaler          5.0
+                                     StandardScaler       12.0
+Random Forest        CV              MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         21.0
+                                     StandardScaler       35.0
+                     TF-IDF          MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         22.0
+                                     StandardScaler       36.0,                                                              0
+classifier_name      vectorizer_name scaler_name              
+Decision Tree        CV              MinMaxScaler         28.0
+                                     QuantileTransformer  27.0
+                                     RobustScaler         20.0
+                                     StandardScaler       21.0
+                     TF-IDF          MinMaxScaler         30.0
+                                     QuantileTransformer  29.0
+                                     RobustScaler         19.0
+                                     StandardScaler       24.0
+Gaussian Naive Bayes CV              MinMaxScaler          7.5
+                                     QuantileTransformer  25.5
+                                     RobustScaler          1.5
+                                     StandardScaler        4.0
+                     TF-IDF          MinMaxScaler          7.5
+                                     QuantileTransformer  25.5
+                                     RobustScaler          1.5
+                                     StandardScaler        3.0
+Logistic Regression  CV              MinMaxScaler         33.5
+                                     QuantileTransformer  31.5
+                                     RobustScaler         11.0
+                                     StandardScaler       14.0
+                     TF-IDF          MinMaxScaler         33.5
+                                     QuantileTransformer  31.5
+                                     RobustScaler          9.0
+                                     StandardScaler       13.0
+Perceptron           CV              MinMaxScaler         15.5
+                                     QuantileTransformer  17.5
+                                     RobustScaler          6.0
+                                     StandardScaler       10.0
+                     TF-IDF          MinMaxScaler         15.5
+                                     QuantileTransformer  17.5
+                                     RobustScaler          5.0
+                                     StandardScaler       12.0
+Random Forest        CV              MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         22.0
+                                     StandardScaler       35.0
+                     TF-IDF          MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         23.0
+                                     StandardScaler       36.0,                                                              0
+classifier_name      vectorizer_name scaler_name              
+Decision Tree        CV              MinMaxScaler         34.0
+                                     QuantileTransformer  30.0
+                                     RobustScaler         13.0
+                                     StandardScaler       21.0
+                     TF-IDF          MinMaxScaler         33.0
+                                     QuantileTransformer  29.0
+                                     RobustScaler         11.0
+                                     StandardScaler       22.0
+Gaussian Naive Bayes CV              MinMaxScaler         37.5
+                                     QuantileTransformer  16.5
+                                     RobustScaler          5.5
+                                     StandardScaler       40.0
+                     TF-IDF          MinMaxScaler         37.5
+                                     QuantileTransformer  16.5
+                                     RobustScaler          5.5
+                                     StandardScaler       39.0
+Logistic Regression  CV              MinMaxScaler          9.5
+                                     QuantileTransformer  18.5
+                                     RobustScaler          2.0
+                                     StandardScaler        8.0
+                     TF-IDF          MinMaxScaler          9.5
+                                     QuantileTransformer  18.5
+                                     RobustScaler          1.0
+                                     StandardScaler        7.0
+Perceptron           CV              MinMaxScaler         25.5
+                                     QuantileTransformer  35.5
+                                     RobustScaler          4.0
+                                     StandardScaler       20.0
+                     TF-IDF          MinMaxScaler         25.5
+                                     QuantileTransformer  35.5
+                                     RobustScaler          3.0
+                                     StandardScaler       12.0
+Random Forest        CV              MinMaxScaler         27.5
+                                     QuantileTransformer  31.5
+                                     RobustScaler         14.0
+                                     StandardScaler       24.0
+                     TF-IDF          MinMaxScaler         27.5
+                                     QuantileTransformer  31.5
+                                     RobustScaler         15.0
+                                     StandardScaler       23.0,                                                              0
+classifier_name      vectorizer_name scaler_name              
+Decision Tree        CV              MinMaxScaler         26.0
+                                     QuantileTransformer  25.0
+                                     RobustScaler         20.0
+                                     StandardScaler       23.0
+                     TF-IDF          MinMaxScaler         30.0
+                                     QuantileTransformer  29.0
+                                     RobustScaler         19.0
+                                     StandardScaler       24.0
+Gaussian Naive Bayes CV              MinMaxScaler          3.5
+                                     QuantileTransformer  27.5
+                                     RobustScaler          5.5
+                                     StandardScaler        1.0
+                     TF-IDF          MinMaxScaler          3.5
+                                     QuantileTransformer  27.5
+                                     RobustScaler          5.5
+                                     StandardScaler        2.0
+Logistic Regression  CV              MinMaxScaler         33.5
+                                     QuantileTransformer  31.5
+                                     RobustScaler         13.0
+                                     StandardScaler       17.0
+                     TF-IDF          MinMaxScaler         33.5
+                                     QuantileTransformer  31.5
+                                     RobustScaler         14.0
+                                     StandardScaler       18.0
+Perceptron           CV              MinMaxScaler         11.5
+                                     QuantileTransformer  15.5
+                                     RobustScaler          9.0
+                                     StandardScaler        7.0
+                     TF-IDF          MinMaxScaler         11.5
+                                     QuantileTransformer  15.5
+                                     RobustScaler         10.0
+                                     StandardScaler        8.0
+Random Forest        CV              MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         21.0
+                                     StandardScaler       35.0
+                     TF-IDF          MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         22.0
+                                     StandardScaler       36.0,                                                              0
+classifier_name      vectorizer_name scaler_name              
+Decision Tree        CV              MinMaxScaler         33.0
+                                     QuantileTransformer  31.0
+                                     RobustScaler         18.0
+                                     StandardScaler       27.0
+                     TF-IDF          MinMaxScaler         34.0
+                                     QuantileTransformer  32.0
+                                     RobustScaler         17.0
+                                     StandardScaler       28.0
+Gaussian Naive Bayes CV              MinMaxScaler         13.5
+                                     QuantileTransformer  23.5
+                                     RobustScaler          3.5
+                                     StandardScaler        8.0
+                     TF-IDF          MinMaxScaler         13.5
+                                     QuantileTransformer  23.5
+                                     RobustScaler          3.5
+                                     StandardScaler        7.0
+Logistic Regression  CV              MinMaxScaler         25.5
+                                     QuantileTransformer  29.5
+                                     RobustScaler          2.0
+                                     StandardScaler       12.0
+                     TF-IDF          MinMaxScaler         25.5
+                                     QuantileTransformer  29.5
+                                     RobustScaler          1.0
+                                     StandardScaler       11.0
+Perceptron           CV              MinMaxScaler         15.5
+                                     QuantileTransformer  19.5
+                                     RobustScaler          6.0
+                                     StandardScaler        9.0
+                     TF-IDF          MinMaxScaler         15.5
+                                     QuantileTransformer  19.5
+                                     RobustScaler          5.0
+                                     StandardScaler       10.0
+Random Forest        CV              MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         21.0
+                                     StandardScaler       35.0
+                     TF-IDF          MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         22.0
+                                     StandardScaler       36.0,                                                              0
+classifier_name      vectorizer_name scaler_name              
+Decision Tree        CV              MinMaxScaler         33.0
+                                     QuantileTransformer  31.0
+                                     RobustScaler         18.0
+                                     StandardScaler       25.0
+                     TF-IDF          MinMaxScaler         34.0
+                                     QuantileTransformer  32.0
+                                     RobustScaler         17.0
+                                     StandardScaler       28.0
+Gaussian Naive Bayes CV              MinMaxScaler         10.5
+                                     QuantileTransformer  23.5
+                                     RobustScaler          1.5
+                                     StandardScaler        4.0
+                     TF-IDF          MinMaxScaler         10.5
+                                     QuantileTransformer  23.5
+                                     RobustScaler          1.5
+                                     StandardScaler        3.0
+Logistic Regression  CV              MinMaxScaler         26.5
+                                     QuantileTransformer  29.5
+                                     RobustScaler          8.0
+                                     StandardScaler       14.0
+                     TF-IDF          MinMaxScaler         26.5
+                                     QuantileTransformer  29.5
+                                     RobustScaler          7.0
+                                     StandardScaler       13.0
+Perceptron           CV              MinMaxScaler         15.5
+                                     QuantileTransformer  19.5
+                                     RobustScaler          6.0
+                                     StandardScaler        9.0
+                     TF-IDF          MinMaxScaler         15.5
+                                     QuantileTransformer  19.5
+                                     RobustScaler          5.0
+                                     StandardScaler       12.0
+Random Forest        CV              MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         21.0
+                                     StandardScaler       35.0
+                     TF-IDF          MinMaxScaler         39.5
+                                     QuantileTransformer  37.5
+                                     RobustScaler         22.0
+                                     StandardScaler       36.0]"
